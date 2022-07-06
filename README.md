@@ -1,6 +1,6 @@
 ### Hi there 
 
-- 🌱 I’m currently learning Javascript
+- 🌱 Currently learning React and Svelte
 
 ### :hammer_and_wrench: Languages and Tools :
 
