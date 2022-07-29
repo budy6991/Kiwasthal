@@ -1,6 +1,6 @@
 ### Hi there 
 
-- 🌱 Currently learning React and Svelte
+- 🌱 Currently learning React and Expressjs
 
 ### :hammer_and_wrench: Languages and Tools :
 
