@@ -1,6 +1,6 @@
 ### Hi there 
 
-- 🌱 Currently learning React and Expressjs
+- 🌱 Currently practicing my Styling Skills, learning Bootstrap & SASS
 
 ### :hammer_and_wrench: Languages and Tools :
 
