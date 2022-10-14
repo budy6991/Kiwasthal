@@ -1,6 +1,6 @@
 ### Hi there 
 
-- 🌱 Currently practicing my Styling Skills, learning Bootstrap & SASS
+- 🌱 Currently learning about WEB3 & Docker
 
 ### :hammer_and_wrench: Languages and Tools :
 
