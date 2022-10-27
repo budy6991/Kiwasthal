@@ -1,6 +1,6 @@
 ### Hi there 
 
-- 🌱 Currently learning about WEB3 & Docker
+- 🌱 Currently learning about Docker && THREEJS
 
 ### :hammer_and_wrench: Languages and Tools :
 
